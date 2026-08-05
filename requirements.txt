@@ -1,0 +1,8 @@
+pandas
+numpy
+idx2numpy
+sklearn.preprocessing
+tensorflow
+tensorflow.keras
+pygame
+sys
